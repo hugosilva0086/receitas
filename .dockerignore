@@ -1,0 +1,16 @@
+venv/
+frontend/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+README.md
+.env
+.DS_Store
+node_modules/
+npm-debug.log
+.pytest_cache/
+.coverage
+
